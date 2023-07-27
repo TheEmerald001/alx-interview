@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-'''A function that returns a list of lists of integers representing the Pascal triangle of size n
+'''A function that returns a list of Pascal triangle of size n
 '''
 
 
